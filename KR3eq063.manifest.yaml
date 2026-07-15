@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eq063/v1
 canonical_location: https://kanripo.org/bkk/KR3eq063/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 怡堂散記
   identifiers:
@@ -17,13 +17,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eq063_000.yaml, hash: 'sha256:ab5f57817173faefeda625c4f4ddc9bba751877c885edde6df90c2123015b624'}
-  - {seq: 1, filename: KR3eq063_001.yaml, hash: 'sha256:389eb18d7d8dc9893769679608c341d1507852d9ab4f85fe0c58293a657e5ebc'}
-  - {seq: 3, filename: KR3eq063_003.yaml, hash: 'sha256:c791fffd3be3bb3d25f25877636ae01818abb50647190262421a6d245504cf2a'}
+  - {seq: 0, filename: KR3eq063_000.yaml, hash: 'sha256:0d83d2d2a12e7ace95269cc04cbffabf89974d493599dc1dd23e1c572fb5a357'}
+  - {seq: 1, filename: KR3eq063_001.yaml, hash: 'sha256:5d75e2b0b6702dff299d6b506b15103ad8004071db5dca6a1de40025f7a117ab'}
+  - {seq: 3, filename: KR3eq063_003.yaml, hash: 'sha256:3b4aa322c57ae5ff0c47728ff41092d15ef7fd8f4c06370fefa7f60ae3caf15a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eq063_000.markers.yaml, hash: 'sha256:e3f79b247b93c42eb9ca8d3ade5ee2c4235798a25f40ce52d534f086bf9d2e65'}
-  - {seq: 1, role: markers, filename: assets/KR3eq063_001.markers.yaml, hash: 'sha256:fbdaee5dc3dc3c4ca2982612833cb72846af5ca1a6a53a0557c5efb027aac913'}
-  - {seq: 3, role: markers, filename: assets/KR3eq063_003.markers.yaml, hash: 'sha256:702ee72e47833bd7c29d47eb3a4e2d6864197a2b4c2ea17cfbbdc258ed52cc96'}
+  - {seq: 0, role: markers, filename: assets/KR3eq063_000.markers.yaml, hash: 'sha256:aac9ce4e9eaaf478c569998301f33569691d4ee668e4564800761628904dedb8'}
+  - {seq: 1, role: markers, filename: assets/KR3eq063_001.markers.yaml, hash: 'sha256:3a51f332363daeef8c9d9c23400f53d3bffde202110bb7710cae39d1587c8344'}
+  - {seq: 3, role: markers, filename: assets/KR3eq063_003.markers.yaml, hash: 'sha256:cf914018db42694172b56bace73af9192c3ec6b279f0c0fd958fbb8d03057a98'}
 table_of_contents:
 - ref:
     seq: 0
@@ -805,4 +805,7 @@ table_of_contents:
   label: 續刻落成喜而占此
   type: section
   level: 2
-hash: sha256:c3a29c4870ffa5503e273bfa1aad9a7c155e7d2b776a89b2d61dd49307593df9
+hash: sha256:c778509d2b8396e01ed263321e79e4677cecf8fade964acee44e641ade6692dd
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
