@@ -22,8 +22,8 @@ assets:
   - {seq: 3, filename: KR3eq063_003-jc.yaml, hash: 'sha256:c791fffd3be3bb3d25f25877636ae01818abb50647190262421a6d245504cf2a'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3eq063_000-jc.markers.yaml, hash: 'sha256:7e4b6898fd3c219bd03e747c4d02e4c5bf5ec5032bfd4486a085480c9c49c9b0'}
-  - {seq: 1, role: markers, filename: assets/KR3eq063_001-jc.markers.yaml, hash: 'sha256:93a4c508ede06eb98a558f47d78fd9457eb3f42a101796a8630b2eae784630b8'}
-  - {seq: 3, role: markers, filename: assets/KR3eq063_003-jc.markers.yaml, hash: 'sha256:ab73e2765e0e5e504ca43c59f8dc73edbecbac43c8d7aa5e3e3a7cddcb213c44'}
+  - {seq: 1, role: markers, filename: assets/KR3eq063_001-jc.markers.yaml, hash: 'sha256:b30a5d988fc0e3c602fd4fbb9dcca1f0c1d4ed8771028c9d3498c927cf5a5ed1'}
+  - {seq: 3, role: markers, filename: assets/KR3eq063_003-jc.markers.yaml, hash: 'sha256:071d96dc9d9b22432bd784b3b1f9d87260e0a39052f400ec389b322d32c03745'}
 table_of_contents:
 - ref:
     seq: 0
@@ -805,4 +805,4 @@ table_of_contents:
   label: 續刻落成喜而占此
   type: section
   level: 2
-hash: sha256:a5e52d5e1b7e27a60cccf1ea61dae8fb3b9a137066eff856f8af8ccd0493822b
+hash: sha256:5ad8188ebca08467cb8282f2e933b593aaa16a00e93a1e82157efc6fe231f135

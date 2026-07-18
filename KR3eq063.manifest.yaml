@@ -22,8 +22,8 @@ assets:
   - {seq: 3, filename: KR3eq063_003.yaml, hash: 'sha256:3b4aa322c57ae5ff0c47728ff41092d15ef7fd8f4c06370fefa7f60ae3caf15a'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3eq063_000.markers.yaml, hash: 'sha256:aac9ce4e9eaaf478c569998301f33569691d4ee668e4564800761628904dedb8'}
-  - {seq: 1, role: markers, filename: assets/KR3eq063_001.markers.yaml, hash: 'sha256:3a51f332363daeef8c9d9c23400f53d3bffde202110bb7710cae39d1587c8344'}
-  - {seq: 3, role: markers, filename: assets/KR3eq063_003.markers.yaml, hash: 'sha256:cf914018db42694172b56bace73af9192c3ec6b279f0c0fd958fbb8d03057a98'}
+  - {seq: 1, role: markers, filename: assets/KR3eq063_001.markers.yaml, hash: 'sha256:ef3efd0eb46044f451c19ee2bcad820622e7058e35f61e5d9b8d3de55b890103'}
+  - {seq: 3, role: markers, filename: assets/KR3eq063_003.markers.yaml, hash: 'sha256:f75efed0014125b482d06f7dd19e97b0e0ae34ea4f866d4fe0c46edc5d1b59d3'}
 table_of_contents:
 - ref:
     seq: 0
@@ -805,7 +805,7 @@ table_of_contents:
   label: 續刻落成喜而占此
   type: section
   level: 2
-hash: sha256:c778509d2b8396e01ed263321e79e4677cecf8fade964acee44e641ade6692dd
+hash: sha256:100a4ace5084d49536225bfe87987692db3baf5b58b1017c908850cccf7fba2f
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
